@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: hello-fleet
+  namespace: fleet-demo
+data:
+  message: "Hi from Fleet"
