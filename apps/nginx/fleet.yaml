@@ -1,0 +1,6 @@
+defaultNamespace: nginx-demo
+
+targets:
+- clusterSelector:
+    matchLabels:
+      env: prod
