@@ -1,4 +1,4 @@
-defaultNamespace: nginx-demo
+defaultNamespace: nginx-fleet
 
 targets:
 - clusterSelector:
